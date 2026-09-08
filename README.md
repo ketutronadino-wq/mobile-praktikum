@@ -4,11 +4,27 @@
 
 ## Deskripsi
 
+## Tujuan
+Aplikasi ini bertujuan untuk memudahkan pengguna dalam berbelanja secara daring.
+
+## Rencana Fitur
+1. Menampilkan keranjang belanja.
+2. Sistem checkout dan pembayaran.
+3. Pelacakan status pengiriman.
+
+
+## Cara Menjalankan
+Pastikan terminal berada di folder proyek, lalu jalankan:
+flutter pub get
+flutter run
+
 ## Pengembang
 
 ## Status
 
 A new Flutter project.
+
+
 
 ## Getting Started
 
