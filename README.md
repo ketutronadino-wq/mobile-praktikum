@@ -18,6 +18,8 @@ Pastikan terminal berada di folder proyek, lalu jalankan:
 flutter pub get
 flutter run
 
+*Catatan: Proyek ini diuji dan disarankan menggunakan Flutter versi 3.47.2.*
+
 ## Pengembang
 
 ## Status
